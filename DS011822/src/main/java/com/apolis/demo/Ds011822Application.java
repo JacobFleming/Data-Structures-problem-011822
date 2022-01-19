@@ -13,6 +13,8 @@ public class Ds011822Application {
 		SpringApplication.run(Ds011822Application.class, args);
 		TreeCompare.runner();
 		TreeSearch.runner();
+		
+		System.out.println("hello git");
 	}
 
 }
